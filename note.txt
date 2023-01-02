@@ -1,0 +1,41 @@
+git and github
+--------------
+git
+----
+vcm - version control system
+scm-software configuration management
+
+git operations
+--------------
+push  -local repository to remote repository - uploading new project and changes
+clone - remote repository to local repository - downloading exact copy of project 
+pull  - remote repository to local repository - downloading  changes
+
+push
+----
+1.add
+2.commit
+3.push
+
+github commands
+---------------
+ (to initialise git )-  git init
+ git add .  ( -  add to staging area( all files will add) )
+ git status  (-staus checking of uploading files)
+ git commit -m "initial commit" (- to commit)
+ git remote -v (remote repository link or not checking)
+ git remote add var1 link  - remote repository link cheyyan
+ git push -u var1 master - push to remote repository
+
+
+clone commands
+-------------
+git clone link
+
+host cheyyan
+-------------
+repository settings - pages- branch name ( change none to master)- save button
+
+pull commands
+--------------
+git pull link
